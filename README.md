@@ -1,6 +1,8 @@
-# Sunsetrock Studio — legal (public)
+# SunsetRock Studio — public site + legal
 
-Public legal pages for App Store Connect across John's apps. App source repos stay private; this one is public and hosted via GitHub Pages at the custom domain `sunsetrockstudio.com` (see `CNAME`).
+Official company website and legal pages for App Store Connect. App source repos stay private; this repo is public and hosted via GitHub Pages at **https://www.sunsetrockstudio.com** (`CNAME`).
+
+Apple organization enrollment needs this site to look like a real company homepage (not a one-line legal dump). Put **https://www.sunsetrockstudio.com** on the enrollment form — include `www`. The bare domain is still on Squarespace/Google and is not the GitHub site.
 
 - Site root: https://www.sunsetrockstudio.com/
 - Folia Privacy Policy: https://www.sunsetrockstudio.com/legal/folia/privacy-policy/
